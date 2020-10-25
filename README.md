@@ -1,3 +1,3 @@
 # TsumStarRating
 
-A description of this package.
+Fork and adaptation https://github.com/evgenyneu/Cosmos
